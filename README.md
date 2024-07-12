@@ -23,9 +23,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
 ### :man_technologist: About Me :
 I am a DSA Enthusiast and keen on learning Python and Javascript <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: ...
 
 - :seedling: Exploring AI/ML and Python development
 
@@ -48,4 +51,10 @@ I am a DSA Enthusiast and keen on learning Python and Javascript <img src="https
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
 </div>
-### 🔥 My Stats : [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akshatkhatri&theme=tokyonight-duo)](https://git.io/streak-stats)
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akshatkhatri&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatkhatri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
