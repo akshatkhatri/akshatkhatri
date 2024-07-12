@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTkwMGhrcXZxcmZhcmk2MHhwOG9sdDhlYzRsNXRrN21uaGcxNHJyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJqb2FtcjRkZXhsdHZ1djVjbmk5dXQ1ZDdxMHMzeHNxbnRud244diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300"/>
 </div>
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -33,8 +33,6 @@ I am a DSA Enthusiast and keen on learning Python and Javascript <img src="https
 - :seedling: Exploring AI/ML and Python development
 
 - :zap: In my free time, I solve problems on Leetcode and Geeks For Geeks.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/akshat-khatri-c/))
 
 - ### :hammer_and_wrench: Languages and Tools :
 <div>
