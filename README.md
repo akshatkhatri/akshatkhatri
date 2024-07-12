@@ -28,7 +28,7 @@
 
 ### :man_technologist: About Me :
 I am a DSA Enthusiast and keen on learning Python and Javascript <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: ...
+- :telescope: Currently Interning at Cyndia Cyberspace LLP.
 
 - :seedling: Exploring AI/ML and Python development
 
