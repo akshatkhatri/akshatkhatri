@@ -4,9 +4,6 @@
 🌱 Continuously learning Keras, TensorFlow, Hugging Face, and cutting-edge NLP techniques  
 💬 Happy to discuss Machine Learning, AI systems, and their practical applications  
 
----
-[//]: # [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)  *Click to watch my latest AI project demo on YouTube!*  
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshatkhatri10) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamakshatkhatri) 
