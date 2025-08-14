@@ -51,12 +51,15 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akshatkhatri&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 [![](https://visitcount.itsvg.in/api?id=akshatkhatri&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=akshatkhatri&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
+
+
