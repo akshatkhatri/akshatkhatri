@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on Building AI projects / NLP systems<br>👯 I’m looking to collaborate on Projects / Research.<br>🌱 I’m currently learning Keras / Tensorflow / Hugging-face / NLP<br>💬 Ask me about Machine Learning / AI systems 
+# 💫 About Me  
+🔭 Building state-of-the-art AI projects and advanced NLP systems  
+👯 Open to collaborating on innovative AI projects and research initiatives  
+🌱 Continuously learning Keras, TensorFlow, Hugging Face, and cutting-edge NLP techniques  
+💬 Happy to discuss Machine Learning, AI systems, and their practical applications  
 
 
 ## 🌐 Socials:
