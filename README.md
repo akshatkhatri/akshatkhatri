@@ -6,7 +6,6 @@
 
 ![Good Morning Simpsons](https://raw.githubusercontent.com/akshatkhatri/akshatkhatri/main/Penguins.gif)
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshatkhatri10) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamakshatkhatri) 
