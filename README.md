@@ -4,7 +4,7 @@
 🌱 Continuously learning Keras, TensorFlow, Hugging Face, and cutting-edge NLP techniques  
 💬 Happy to discuss Machine Learning, AI systems, and their practical applications  
 
-![Good Morning Simpsons](Penguins.gif)
+![Good Morning Simpsons](https://raw.githubusercontent.com/akshatkhatri/akshatkhatri/main/Penguins.gif)
 
 
 ## 🌐 Socials:
