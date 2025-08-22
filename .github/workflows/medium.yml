@@ -1,17 +1,1 @@
-name: Update Medium Articles
 
-on:
-  schedule:
-    - cron: "0 */1 * * *"  # Runs every 1 hour
-  workflow_dispatch: # Allows manual run
-
-jobs:
-  update-readme-with-medium:
-    name: Update this repo's README with latest Medium articles
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: 5
-          feed_list: "https://medium.com/feed/@akshat.dev"
